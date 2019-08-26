@@ -1,0 +1,127 @@
+*   {
+    margin: 0;
+    padding: 0;
+}
+
+ { font-family: "calibri", Garamond, 'Comic Sans MS'; }
+
+body   {
+    background-color: white;
+}
+
+.b3 {
+    background-color: rgb(43, 90, 220);
+    margin-bottom: 0.5%;
+}
+
+.logo-div   {
+    display: flex;
+    justify-content: center;
+}
+
+.logo-img   {
+    width: 30%;
+    height: 30%;
+}
+
+.a{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.paint  {
+    width: 4%;
+    height: 4%;
+}
+
+.pottery    {
+    width: 4%;
+    height: 4%;
+}
+
+.sculpture  {
+    width: 4%;
+    height: 4%;
+}
+
+.icon   {
+    width: 4%;
+    height: 4%;
+}
+
+.a1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 2%;
+}
+
+.xndir  {
+    display: flex;
+    font-family: "calibri", Garamond, 'Comic Sans MS';
+}
+
+.lucum  {
+    display: flex;
+    justify-content: center;
+    font-family: "calibri", Garamond, 'Comic Sans MS';
+}
+
+.web_sites  {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.insta  {
+    width: 2%;
+    height: 4%;
+}
+
+.fb {
+    width: 2%;
+    height: 4%;
+}
+
+.hart_gorc  {
+    font-family: "calibri", Garamond, 'Comic Sans MS';
+    margin-left: 2%;
+}
+
+.try-div    {
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+}
+
+.try    {
+    min-width: 300px;
+    min-height: 44px;
+    border-radius: 0px;
+    color: black;
+    background: rgb(43, 90, 220);
+    font-family: "calibri", Garamond, 'Comic Sans MS';
+    font-size: 150%;
+}
+
+.picture-div    {
+    margin-top: 2%;
+}
+
+.picture    {
+    width: 100%;
+}
+
+.mmm    {
+    font-weight: bold;
+}
+
+.lll    {
+    margin-bottom: 2%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-weight: bold;
+    font-size: 350%;
+}
